@@ -64,7 +64,6 @@ We use a TensorFlow dataset with the following configuration:
 ### Authors:
 - Le Dang Khoa
 - Le Gia Hung
-- Nguyen Hung Thinh
 
 ## License
 
