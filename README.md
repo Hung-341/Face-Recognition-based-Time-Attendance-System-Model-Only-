@@ -20,7 +20,7 @@ We use the **nn4.small2.v1.t7** model for face embedding generation. The model c
 - **Convert blob images**: Reduces noise in images due to illumination.
   - Input: RGB image matrix and output size.
   - Output: Blob image.
-  
+
 - **_extract_face**: Extracts face from an image based on the bounding box and size threshold.
   - Input: RGB image matrix and bounding box coordinates.
   - Output: Extracted face matrix.
@@ -61,6 +61,10 @@ We use a TensorFlow dataset with the following configuration:
    ```bash
    jupyter notebook FaceRecog_faceNet_VGG16_MLP.ipynb
    ```
+### Authors:
+- Le Dang Khoa
+- Le Gia Hung
+- Nguyen Hung Thinh
 
 ## License
 
