@@ -53,11 +53,7 @@ We use a TensorFlow dataset with the following configuration:
    ```bash
    git clone https://github.com/Hung-341/Face-Recognition-based-Time-Attendance-System-Model-Only
    ```
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook or scripts for training and testing:
+2. Run the notebook or scripts for training and testing:
    ```bash
    jupyter notebook FaceRecog_faceNet_VGG16_MLP.ipynb
    ```
