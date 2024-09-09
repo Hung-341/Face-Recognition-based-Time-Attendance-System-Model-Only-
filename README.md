@@ -1,5 +1,5 @@
 
-# Face Recognition based Time Attendance System Model
+# Face Recognition based Time Attendance System Model Only
 
 This project implements a face-recognition-based time attendance system using the **nn4.small2.v1.t7** model for face embedding. It includes image preprocessing, face extraction, and model training with data augmentation techniques.
 
